@@ -1,10 +1,10 @@
 @font-face {
   font-family: momt;
-  src: url("fonts/momt.tff");
+  src: url("../fonts/momt.tff");
 }
 @font-face {
   font-family: cmunorm;
-  src: url("fonts/cmunorm.tff");
+  src: url("../fonts/cmunorm.tff");
 }
 
 body {
