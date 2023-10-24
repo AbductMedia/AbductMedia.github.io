@@ -27,6 +27,6 @@ body {
 	color:black;
 }
 
-.mail {text-size:250%; color:black;}
+.mail {font-size:250%; color:black; margin-bottom:1cm;}
 
 .book {margin:2mm;}
