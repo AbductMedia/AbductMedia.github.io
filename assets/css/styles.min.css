@@ -1,6 +1,7 @@
 /* Responsive nav size reductions */
 #mainNav .navbar-nav{flex-wrap:wrap}
 #mainNav .nav-link{white-space:normal}
+#mainNav .container{max-width:100%;width:100%}
 @media (max-width: 1200px){#mainNav .navbar-nav{font-size:105%}}
 @media (max-width: 992px){#mainNav .navbar-nav{font-size:95%;flex-wrap:wrap}#mainNav .nav-link{white-space:normal;padding-left:.5rem;padding-right:.5rem}}
 @media (max-width: 768px){#mainNav .navbar-brand{font-size:180%}}
